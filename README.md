@@ -1,6 +1,6 @@
-# ShopZEE
+# BuyOut
 
-ShopZEE is a modern e-commerce website built using React.js and JavaScript, offering a seamless shopping experience with features like user authentication, shopping cart, and category-specific sections.
+BuyOut is a modern e-commerce website built using React.js and JavaScript, offering a seamless shopping experience with features like user authentication, shopping cart, and category-specific sections.
 
 ## Features
 
@@ -35,13 +35,13 @@ ShopZEE is a modern e-commerce website built using React.js and JavaScript, offe
 
 ## Installation
 
-To run the ShopZEE website locally:
+To run the BuyOut website locally:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/shopZEE.git
 2. Navigate into the project directory:
-  cd shopZEE.
+  cd BuyOut.
 3.Install dependencies:
 npm install.
 
